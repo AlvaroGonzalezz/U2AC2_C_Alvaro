@@ -1,0 +1,8 @@
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\bin\Debug\U3AC2_C_Alvaro_Sanchez.exe.config
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\bin\Debug\U3AC2_C_Alvaro_Sanchez.exe
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\bin\Debug\U3AC2_C_Alvaro_Sanchez.pdb
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\obj\Debug\U3AC2_C_Alvaro_Sanchez.csproj.AssemblyReference.cache
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\obj\Debug\U3AC2_C_Alvaro_Sanchez.csproj.SuggestedBindingRedirects.cache
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\obj\Debug\U3AC2_C_Alvaro_Sanchez.csproj.CoreCompileInputs.cache
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\obj\Debug\U3AC2_C_Alvaro_Sanchez.exe
+C:\Users\YUGEN\source\repos\U3AC2_C_Alvaro_Sanchez\obj\Debug\U3AC2_C_Alvaro_Sanchez.pdb
